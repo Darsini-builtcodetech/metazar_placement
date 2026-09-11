@@ -8,4 +8,4 @@ print(stack)
 
 stack.pop()
 
-print(stack)
+print(stack[-2])
