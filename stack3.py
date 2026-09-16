@@ -1,6 +1,6 @@
 stack = []
 
-while True:
+while True:           #Idhu program-a continue-ah run pannum.
     print("\n-- Stack Menu --")
     print("1. push")
     print("2. pop")
